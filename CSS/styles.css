@@ -1,5 +1,17 @@
+.background{
+     
+}
 
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
+.Text{
+    justify-content: end;
+    color: rgb(108, 0, 4);
+    background-color: rgba(128, 128, 128, 0.359);
 
+}
 /* Maddie code v / Griffin code ^ */
 
