@@ -34,6 +34,63 @@ body {
 .pkmnFontThree{
     font-family: POKPIX3;
 }
+@font-face{
+    font-family: POKPIX2;
+    src: url("../Assets/pokemon_pixels_1/POKPIX2.TTF");
+}
+.pkmnFontTwo{
+    font-family: POKPIX2;
+}
+@font-face{
+    font-family: POKPIX1;
+    src: url("../Assets/pokemon_pixels_1/POKPIX1.TTF");
+}
+.pkmnFontOne{
+    font-family: POKPIX1;
+}
 .pkmnCardContainer{
-
+    
+}
+.card-title, .card-text{
+    text-align:center;
+}
+.typhlosion{
+    background: url(../Assets/typhlosionGB.png) fixed;
+    background-repeat:no-repeat;
+    background-position:100%;
+}
+.lapras{
+    background: url(../Assets/laprasGB.png) fixed;
+    background-repeat:no-repeat;
+    background-position:100%;
+}
+.wooper{
+    background: url(../Assets/wooperGB.png) fixed;
+    background-repeat:no-repeat;
+    background-position:100%;
+}
+.totodile{
+    background: url(../Assets/totodileGB.png) fixed;
+    background-repeat:no-repeat;
+    background-position:100%;
+}
+.togepi{
+    background: url(../Assets/togepiGB.png) fixed;
+    background-repeat:no-repeat;
+    background-position:100%;
+}
+.slowpoke{
+    background: url(../Assets/slowpokeGB.png) fixed;
+    background-repeat:no-repeat;
+    background-position:100%;
+}
+.yamper{
+    background: url(../Assets/yamperGB.png) fixed;
+    background-repeat:no-repeat;
+    background-position:100%;
+}
+.dragapult{
+    background: url(../Assets/dragapultGB.png) fixed;
+    background-repeat:no-repeat;
+    background-position:100%;
 }
