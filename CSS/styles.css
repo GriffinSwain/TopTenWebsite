@@ -1,5 +1,18 @@
 .background {
-    
+
+}
+
+.songInfo{
+    position: absolute; 
+    margin-top: -35%;
+}
+
+.songTitle{
+    position: absolute; 
+    margin-top: -40%;
+}
+.Audio{
+    position: absolute;
 }
 
 body {
@@ -19,6 +32,7 @@ body {
     margin-top: -21%;
     background-color: rgb(56, 56, 56);
     color: azure;
+    
 }
 
 .lastButton {
@@ -28,9 +42,8 @@ body {
     color: azure;
 }
 
-<<<<<<< HEAD
 .MP3 {
-    padding-top: .5%;
+    
     padding-left: 50%;
     max-width: 72%
 }
@@ -41,12 +54,6 @@ body {
     background: url(../Assets/Gameboy.png) fixed;
     background-repeat: no-repeat;
     background-position: 100%;
-=======
-.img-fluid{
-    max-height:700px;
-    display:flex;
-    float:right;
->>>>>>> 3d488c6d29afac514fc6ecb2e87beda952f3d446
 }
 
 @font-face {
@@ -134,7 +141,6 @@ body {
 /*.transButton{
         opacity: 0%;
 }*/
-<<<<<<< HEAD
 .nextBtn {}
 
 .backBtn {}
@@ -144,18 +150,5 @@ body {
 .startBtn {
     margin-left: 82.5%;
     margin-top: 25%;
-=======
-.nextBtn1{
-
-}
-.backBtn1{
-
-}
-.aBtn1{
-
-}
-.startBtn1{
-    margin-left: 85.5%;
-    margin-top: 10%;
->>>>>>> 3d488c6d29afac514fc6ecb2e87beda952f3d446
+    position: absolute;
 }
