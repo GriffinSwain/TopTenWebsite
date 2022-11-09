@@ -22,11 +22,18 @@ body {
 /* Maddie code v / Griffin code ^ */
 
 .gameboy{
-    background: url(../Assets/Gameboy.jpeg) fixed;
+    background: url(../Assets/Gameboy.png) fixed;
     background-repeat: no-repeat;
     background-position: 100%;
 }
-.introTextContainer{
-    text-align:left;
-    
+
+@font-face{
+    font-family: POKPIX3;
+    src: url("../Assets/pokemon_pixels_1/POKPIX3.TTF");
+}
+.pkmnFontThree{
+    font-family: POKPIX3;
+}
+.pkmnCardContainer{
+
 }
