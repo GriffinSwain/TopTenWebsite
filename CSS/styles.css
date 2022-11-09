@@ -21,10 +21,10 @@ body {
 
 /* Maddie code v / Griffin code ^ */
 
-.gameboy{
-    background: url(../Assets/Gameboy.png) fixed;
-    background-repeat: no-repeat;
-    background-position: 100%;
+.img-fluid{
+    max-height:700px;
+    display:flex;
+    float:right;
 }
 
 @font-face{
@@ -97,16 +97,16 @@ body {
 /*.transButton{
         opacity: 0%;
 }*/
-.nextBtn{
+.nextBtn1{
 
 }
-.backBtn{
+.backBtn1{
 
 }
-.aBtn{
+.aBtn1{
 
 }
-.startBtn{
-    margin-left: 82.5%;
-    margin-top: 25%;
+.startBtn1{
+    margin-left: 85.5%;
+    margin-top: 10%;
 }
