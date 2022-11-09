@@ -1,112 +1,139 @@
-.background{
-     
+.background {
+    
 }
 
 body {
     background-repeat: no-repeat;
     background-size: cover;
-  }
+}
 
-.Text{
+.Text {
     justify-content: end;
     color: rgb(108, 0, 4);
     background-color: rgba(128, 128, 128, 0.359);
     align-items: center;
-
 }
 
-.MP3{
-  align-items: flex-end;
+.nextButton {
+    margin-left: 63.5%;
+    margin-top: -21%;
+    background-color: rgb(56, 56, 56);
+    color: azure;
 }
 
-/* Maddie code v / Griffin code ^ */
+.lastButton {
+    margin-left: 53.5%;
+    margin-top: -24%;
+    background-color: rgb(56, 56, 56);
+    color: azure;
+}
 
-.gameboy{
+.MP3 {
+    padding-top: .5%;
+    padding-left: 50%;
+    max-width: 72%
+}
+
+/* Maddie code v / Griffin code /\ */
+
+.gameboy {
     background: url(../Assets/Gameboy.png) fixed;
     background-repeat: no-repeat;
     background-position: 100%;
 }
 
-@font-face{
+@font-face {
     font-family: POKPIX3;
     src: url("../Assets/pokemon_pixels_1/POKPIX3.TTF");
 }
-.pkmnFontThree{
+
+.pkmnFontThree {
     font-family: POKPIX3;
 }
-@font-face{
+
+@font-face {
     font-family: POKPIX2;
     src: url("../Assets/pokemon_pixels_1/POKPIX2.TTF");
 }
-.pkmnFontTwo{
+
+.pkmnFontTwo {
     font-family: POKPIX2;
 }
-@font-face{
+
+@font-face {
     font-family: POKPIX1;
     src: url("../Assets/pokemon_pixels_1/POKPIX1.TTF");
 }
-.pkmnFontOne{
+
+.pkmnFontOne {
     font-family: POKPIX1;
 }
-.pkmnCardContainer{
-    
+
+.pkmnCardContainer {}
+
+.card-title,
+.card-text {
+    text-align: center;
 }
-.card-title, .card-text{
-    text-align:center;
-}
-.typhlosion{
+
+.typhlosion {
     background: url(../Assets/typhlosionGB.png) fixed;
-    background-repeat:no-repeat;
-    background-position:100%;
+    background-repeat: no-repeat;
+    background-position: 100%;
 }
-.lapras{
+
+.lapras {
     background: url(../Assets/laprasGB.png) fixed;
-    background-repeat:no-repeat;
-    background-position:100%;
+    background-repeat: no-repeat;
+    background-position: 100%;
 }
-.wooper{
+
+.wooper {
     background: url(../Assets/wooperGB.png) fixed;
-    background-repeat:no-repeat;
-    background-position:100%;
+    background-repeat: no-repeat;
+    background-position: 100%;
 }
-.totodile{
+
+.totodile {
     background: url(../Assets/totodileGB.png) fixed;
-    background-repeat:no-repeat;
-    background-position:100%;
+    background-repeat: no-repeat;
+    background-position: 100%;
 }
-.togepi{
+
+.togepi {
     background: url(../Assets/togepiGB.png) fixed;
-    background-repeat:no-repeat;
-    background-position:100%;
+    background-repeat: no-repeat;
+    background-position: 100%;
 }
-.slowpoke{
+
+.slowpoke {
     background: url(../Assets/slowpokeGB.png) fixed;
-    background-repeat:no-repeat;
-    background-position:100%;
+    background-repeat: no-repeat;
+    background-position: 100%;
 }
-.yamper{
+
+.yamper {
     background: url(../Assets/yamperGB.png) fixed;
-    background-repeat:no-repeat;
-    background-position:100%;
+    background-repeat: no-repeat;
+    background-position: 100%;
 }
-.dragapult{
+
+.dragapult {
     background: url(../Assets/dragapultGB.png) fixed;
-    background-repeat:no-repeat;
-    background-position:100%;
+    background-repeat: no-repeat;
+    background-position: 100%;
 }
+
 /*.transButton{
         opacity: 0%;
 }*/
-.nextBtn{
+.nextBtn {}
 
-}
-.backBtn{
+.backBtn {}
 
-}
-.aBtn{
+.aBtn {}
 
-}
-.startBtn{
+.startBtn {
     margin-left: 82.5%;
     margin-top: 25%;
 }
