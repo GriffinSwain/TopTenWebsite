@@ -4,15 +4,29 @@
 
 .songInfo{
     position: absolute; 
-    margin-top: -35%;
+    margin-top: -33%;
+    margin-left: 3%;
+    margin-right: 60%;
+    color: darkred;
+    background-color: rgba(70, 154, 10, 0.438);
 }
 
 .songTitle{
     position: absolute; 
-    margin-top: -40%;
+    margin-top: -46%;
+    color: black;
+    margin-left: 3%;
+}
+.songDate{
+    position: absolute; 
+    margin-top: -37%;
+    color: darkblue;
+    margin-left: 3%;
 }
 .Audio{
     position: absolute;
+    margin-left: 3%;
+    margin-top: 7.5%;
 }
 
 body {
