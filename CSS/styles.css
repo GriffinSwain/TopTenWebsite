@@ -75,6 +75,15 @@ body {
 }
 
 /* Maddie code v / Griffin code /\ */
+
+.gameboybtn{
+    position:absolute;
+    padding:8%;
+    margin-left:43%;
+    margin-top:-25%;
+}
+
+
 .backgr{
     background: url(../Assets/ShadowOnGrass.png);
     background-size:cover;
