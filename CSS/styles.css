@@ -25,6 +25,11 @@
     margin-top: 7.5%;
 }
 
+.pokeCry{
+    position: relative;
+    margin-right: 50%;
+}
+
 body {
     background-repeat: no-repeat;
     background-size: cover;
