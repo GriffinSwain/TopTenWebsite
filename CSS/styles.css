@@ -127,54 +127,6 @@ body {
     text-align: center;
 }
 
-.typhlosion {
-    background: url(../Assets/typhlosionGB.png) fixed;
-    background-repeat: no-repeat;
-    background-position: 100%;
-}
-
-.lapras {
-    background: url(../Assets/laprasGB.png) fixed;
-    background-repeat: no-repeat;
-    background-position: 100%;
-}
-
-.wooper {
-    background: url(../Assets/wooperGB.png) fixed;
-    background-repeat: no-repeat;
-    background-position: 100%;
-}
-
-.totodile {
-    background: url(../Assets/totodileGB.png) fixed;
-    background-repeat: no-repeat;
-    background-position: 100%;
-}
-
-.togepi {
-    background: url(../Assets/togepiGB.png) fixed;
-    background-repeat: no-repeat;
-    background-position: 100%;
-}
-
-.slowpoke {
-    background: url(../Assets/slowpokeGB.png) fixed;
-    background-repeat: no-repeat;
-    background-position: 100%;
-}
-
-.yamper {
-    background: url(../Assets/yamperGB.png) fixed;
-    background-repeat: no-repeat;
-    background-position: 100%;
-}
-
-.dragapult {
-    background: url(../Assets/dragapultGB.png) fixed;
-    background-repeat: no-repeat;
-    background-position: 100%;
-}
-
 transButton{
         opacity: 0%;
 }
@@ -183,35 +135,39 @@ transButton{
     margin-left:25%;
     margin-top: 33.6%;
     position: absolute;
-    background-color:rgb(45,44,54);
+    background-color:rgb(50,15,133);
     border-radius:5px;
     border-width: 2px;
+    color:white;
 }
 
 .backBtn {
     margin-left:20%;
     margin-top: 33.6%;
     position: absolute;
-    background-color:rgb(45,44,54);
+    background-color:rgb(50,15,133);
     border-radius:5px;
     border-width: 2px;
+    color:white;
+
 }
 
 .aBtn {
     margin-left:30%;
     margin-top: 33.6%;
     position: absolute;
-    background-color:rgb(45,44,54);
+    background-color:rgb(50,15,133);
     border-radius:5px;
     border-width: 2px;
-    border-color:rgb(45,44,54);
+    color:white;
 }
 
 .startBtn {
     margin-left:14.4%;
     margin-top: 33.6%;
     position: absolute;
-    background-color:rgb(45,44,54);
+    background-color:rgb(50,15,133);
     border-radius:5px;
     border-width: 2px;
+    color:white;
 }
