@@ -37,8 +37,8 @@ body {
 
 .Text {
     justify-content: end;
-    color: rgb(108, 0, 4);
-    background-color: rgba(128, 128, 128, 0.359);
+    color: rgb(255, 0, 8);
+    background-color: rgba(0, 0, 0, 0.684);
     align-items: center;
 }
 
