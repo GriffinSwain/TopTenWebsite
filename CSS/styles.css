@@ -37,8 +37,8 @@ body {
 
 .Text {
     justify-content: end;
-    color: rgb(108, 0, 4);
-    background-color: rgba(128, 128, 128, 0.359);
+    color: rgb(255, 0, 8);
+    background-color: rgba(0, 0, 0, 0.684);
     align-items: center;
 }
 
@@ -79,13 +79,28 @@ body {
     max-width: 72%
 }
 
-/* Maddie code v / Griffin code /\ */
+.mp3Button{
+    position:absolute;
+    transform: rotate(34deg);
+    padding:11%;
+    padding-bottom: 1%;
+    margin-left:31%;
+    margin-top:6%;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(0, 0, 0)
+}
+
+/* Maddie code v        /    Griffin code /\ */
 
 .gameboybtn{
     position:absolute;
-    padding:8%;
+    transform: rotate(30deg);
+    padding:14%;
+    padding-bottom: 5%;
     margin-left:43%;
-    margin-top:-25%;
+    margin-top:-17%;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(0, 0, 0)
 }
 
 
